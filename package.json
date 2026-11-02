@@ -1,0 +1,5 @@
+{
+  "name": "qa-ops-dependabot",
+  "version": "0.0.1",
+  "dependencies": { "lodash": "4.17.15", "minimist": "1.2.0" }
+}
